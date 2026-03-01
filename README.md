@@ -36,10 +36,10 @@ y por qué a veces dejan de funcionar.
 Cuando no estoy programando probablemente estoy:
 
     • 🎮 Jugando videojuegos
-    • 🎵 Escuchando y/o creando música
-    • 📸 Haciendo fotografía
+    • 🎵 Escuchando o creando música
+    • 📸 Practicando fotografía
     • 🌏 Aprendiendo idiomas
-    • ✍️ Escribiendo
+    • ✍️ Escribiendo historias 
     • 🎮 Creando pequeños videojuegos en RPG Maker
     • 🎸 Dándolo todo en un concierto
     • 🧵 Preparando algún cosplay
