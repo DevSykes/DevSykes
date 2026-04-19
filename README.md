@@ -36,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" height="40" />
 </p>
 
  
