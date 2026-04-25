@@ -1,4 +1,4 @@
-<h1 align="center">✨ S.Z. ✨</h1>
+<h1 align="center">✨ Sara Zarzosa Brea ✨</h1>
 <p align="center"> <b>Software Development Student</b> </p>
 
 <p align="center">
