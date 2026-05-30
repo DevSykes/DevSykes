@@ -3,7 +3,7 @@
 
 <p align="center">
 🎮 Gaming | 📸 Photography | ✍️ Writing | 🎨 Digital Drawing | 🎵 Music lover <br>
-🌐 English (Fluent) • Spanish (Native) • Japanese (Basic) • Korean (Beginner)
+🌐 Spanish (Native) • English (Fluent) • Japanese (Intermediate) • Korean (Beginner)
 </p>
 
 ---
