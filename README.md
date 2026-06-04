@@ -21,10 +21,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevSykes&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevSykes&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" />
 </p>
-
-<p align="center">
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />&nbsp;
