@@ -2,7 +2,7 @@
 <p align="center"> <b>Software Development Student</b> </p>
 
 <p align="center">
-🎮 Gaming | 📸 Photography | ✍️ Writing | 🎨 Digital Drawing | 🎵 Music lover <br>
+🎮 Gaming | 📸 Photography | ✍️ Writing | 🎨 Digital Drawing | 🎵 Music <br>
 🌐 Spanish (Native) • English (Fluent) • Japanese (Intermediate) • Korean (Beginner)
 </p>
 
