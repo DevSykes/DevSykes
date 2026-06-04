@@ -17,6 +17,13 @@
   <span style="font-size:1.2em;">🛠️ Personal projects</span> &nbsp;&nbsp;
   <span style="font-size:1.2em;">📚 Learning exercises</span> &nbsp;&nbsp;
 </p>
+
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+  </a>
+</p>
     
 ---
 
