@@ -1,4 +1,4 @@
-<h1 align="center">✨ DevSykes ✨</h1>
+<h1 align="center">✨ Sara Z.B. ✨</h1>
 <p align="center"> <b>Software Development Student</b> </p>
 
 <p align="center">
